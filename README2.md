@@ -1,7 +1,7 @@
 # Spam Prediction model
 The notebook will contain a model that predicts whether an email is a spam or not
 **************************************************************************************************************************
-![Uploading 66316685-hacker-and-computer-icon-security-system-warning-protection-and-danger-theme-colorful-design-vector-.jpg…]()
+
 **************************************************************************************************************************
 Spams are irrelevant or unsolicited (e.g. advertisements for products/web sites, make money fast schemes, chain letters, pornography) messages sent over the Internet, typically to a large number of users, for the purposes of advertising, phishing, spreading malware, etc
 
