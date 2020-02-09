@@ -28,6 +28,6 @@ The dataset is obtained from https://archive.ics.uci.edu/ml/datasets/Spambase
 No known bugs 
 
 # License information with a copyright and date 
-
 Copyright(c) 2020 , Stephanie Omwanda
+
 ![Email-Spam-300x217](https://user-images.githubusercontent.com/56550310/74103128-8b093e00-4b5a-11ea-80ea-6dd94a3133fd.jpg)
