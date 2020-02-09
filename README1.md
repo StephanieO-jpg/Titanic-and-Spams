@@ -32,3 +32,4 @@ No known bugs
 # License information with a copyright
 
 Copyright(c) 2020 , Stephanie Omwanda
+![Titanic](https://user-images.githubusercontent.com/56550310/74102897-b0954800-4b58-11ea-8fb5-8bb7061a1531.png)
